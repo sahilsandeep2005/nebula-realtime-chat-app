@@ -95,8 +95,6 @@ export default function Home() {
               Socket.io, Prisma and PostgreSQL.
             </p>
           </div>
-
-          <span className="glow-pill">Portfolio Project</span>
         </div>
 
         <div
